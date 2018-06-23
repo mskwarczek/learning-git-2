@@ -25,7 +25,9 @@ header {
 }
 
 footer {
-	margin: 20px 0;
+	display: flex;
+	flex-direction: row nowrap;
+	justify-content: center;
 	text-align: center;
 
 	footer p {
