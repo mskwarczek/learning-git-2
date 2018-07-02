@@ -8,6 +8,6 @@ header h1 { text-transform: uppercase; text-shadow: 3px 3px 5px #bfbfbf; }
 
 .container .ref { font-style: italic; }
 
-footer { display: -ms-flexbox; display: flex; -ms-flex-direction: row nowrap; flex-direction: row nowrap; -ms-flex-pack: center; justify-content: center; text-align: center; }
+footer { display: -ms-flexbox; display: flex; -ms-flex-flow: row nowrap; flex-flow: row nowrap; -ms-flex-pack: center; justify-content: center; text-align: center; }
 
 footer footer p { font-weight: bold; }
